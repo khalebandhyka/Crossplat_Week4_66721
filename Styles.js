@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
   contentContainer: {
     alignItems: 'center',
     justifyContent: 'center',
+    textAlign: 'center',
   },
   photo: {
     width: 90,
